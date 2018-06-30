@@ -1,2 +1,0 @@
-# filebundler
-Created with CodeSandbox
